@@ -1,0 +1,20 @@
+{
+  "name": "hidden-video-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "pckurdu"
+  ],
+  "author": "pckurdu",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "~1.4.13"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
